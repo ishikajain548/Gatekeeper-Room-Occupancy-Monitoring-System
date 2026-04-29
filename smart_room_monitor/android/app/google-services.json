@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "215363675734",
+    "firebase_url": "https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-acc9d",
+    "storage_bucket": "fir-acc9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215363675734:android:522c99e714e22f8089bdf7",
+        "android_client_info": {
+          "package_name": "com.example.smart_room_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbNGNGRMeUjejPwHPVESgWbaYI7kj1K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215363675734:android:b2668a8f85d8c11989bdf7",
+        "android_client_info": {
+          "package_name": "com.smart_room_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbNGNGRMeUjejPwHPVESgWbaYI7kj1K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
