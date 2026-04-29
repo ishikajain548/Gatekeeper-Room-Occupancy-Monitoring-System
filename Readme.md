@@ -62,17 +62,17 @@ The system is divided into three layers:
 ## Screenshots
 
 ###  Home Screen
-![Home Screen](screenshots/HomeScreen1.jpeg)
-![Home Screen](screenshots/HomeScreen2.jpeg)
+![Home Screen](Screenshots/HomeScreen1.jpeg)
+![Home Screen](Screenshots/HomeScreen2.jpeg)
 
 ### Analytics Screen
-![Analytics Screen](screenshots/AnalyticsScreen.jpeg)
+![Analytics Screen](Screenshots/AnalyticsScreen.jpeg)
 
 ###  Settings Screen
-![Settings Screen](screenshots/SettingsScreen.jpeg)
-![Settings Screen](screenshots/AddDeviceScreen.jpeg)
-![Settings Screen](screenshots/EditDeviceScreen.jpeg)
-![Settings Screen](screenshots/DeleteDeviceScreen.jpeg)
+![Settings Screen](Screenshots/SettingsScreen.jpeg)
+![Settings Screen](Screenshots/AddDeviceScreen.jpeg)
+![Settings Screen](Screenshots/EditDeviceScreen.jpeg)
+![Settings Screen](Screenshots/DeleteDeviceScreen.jpeg)
 
 ---
 
