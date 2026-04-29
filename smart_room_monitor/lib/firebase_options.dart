@@ -41,27 +41,27 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBVyq-F1bUQiSsxFoBLF6EyaZjjB0avyvA',
-    appId: '1:215363675734:web:a976732a55725fa589bdf7',
+    apiKey: 'your api key',
+    appId: 'your app id',
     messagingSenderId: '215363675734',
     projectId: 'fir-acc9d',
     authDomain: 'fir-acc9d.firebaseapp.com',
-    databaseURL: 'https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'your database url',
     storageBucket: 'fir-acc9d.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJbNGNGRMeUjejPwHPVESgWbaYI7kj1K0',
-    appId: '1:215363675734:android:522c99e714e22f8089bdf7',
+    apiKey: 'your api key',
+    appId: 'your app id',
     messagingSenderId: '215363675734',
     projectId: 'fir-acc9d',
-    databaseURL: 'https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'your database url',
     storageBucket: 'fir-acc9d.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAx7x8se8qIF74zB6fDLXY7ydilr0TkCLg',
-    appId: '1:215363675734:ios:cd6ad8a3b1b01b1e89bdf7',
+    apiKey: 'your api key',
+    appId: 'your app id',
     messagingSenderId: '215363675734',
     projectId: 'fir-acc9d',
     databaseURL: 'https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app',
@@ -70,22 +70,22 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAx7x8se8qIF74zB6fDLXY7ydilr0TkCLg',
-    appId: '1:215363675734:ios:cd6ad8a3b1b01b1e89bdf7',
+    apiKey: 'your api key',
+    appId: 'your app id',
     messagingSenderId: '215363675734',
     projectId: 'fir-acc9d',
-    databaseURL: 'https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'your database url',
     storageBucket: 'fir-acc9d.firebasestorage.app',
     iosBundleId: 'com.example.smartRoomMonitor',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBVyq-F1bUQiSsxFoBLF6EyaZjjB0avyvA',
-    appId: '1:215363675734:web:dc1972d16772183789bdf7',
+    apiKey: 'your api key',
+    appId: 'your app id',
     messagingSenderId: '215363675734',
     projectId: 'fir-acc9d',
     authDomain: 'fir-acc9d.firebaseapp.com',
-    databaseURL: 'https://fir-acc9d-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'your database url',
     storageBucket: 'fir-acc9d.firebasestorage.app',
   );
 }
